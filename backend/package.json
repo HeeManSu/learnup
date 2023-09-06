@@ -4,8 +4,6 @@
   "description": "",
   "type": "module",
   "main": "server.js",
-    "proxy": "http://localhost:4002/api/v1",
-
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
