@@ -1,0 +1,31 @@
+
+
+.container{
+    box-sizing: border-box;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: rgba(139, 141, 145, 0.5) 3px 3px 32.962px;
+    -webkit-box-pack: justify;
+    color: rgb(26, 26, 26);
+}
+.container:hover{
+    transform: translateY(-10px)
+}
+
+.container1{
+      box-sizing: border-box;
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: rgba(139, 141, 145, 0.5) 3px 3px 32.962px;
+    -webkit-box-pack: justify;
+    color: rgb(26, 26, 26);
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+}
+
+.gradient1{
+    background-color: #f39f86;
+background-image: linear-gradient(315deg, #f39f86 0%, #f9d976 74%);
+}
