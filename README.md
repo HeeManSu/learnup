@@ -3,6 +3,10 @@
 CodeMaster Pro is an interactive and comprehensive online coding course selling website along with admin dashboard. 
 
 
+## Demo
+
+https://drive.google.com/file/d/10thiHgZOgmG4CBtTIo7IMXymbBM3W-7K/view?usp=drive_link
+
 ## Tech Stack
 
 **Client:** 
@@ -45,11 +49,6 @@ CodeMaster Pro is an interactive and comprehensive online coding course selling 
 - Change User Role (Admin, User)
 - View lectures , **etc...**  
 
-
-
-## Demo
-
-https://drive.google.com/file/d/10thiHgZOgmG4CBtTIo7IMXymbBM3W-7K/view?usp=drive_link
 
 
 ## Environment Variables
